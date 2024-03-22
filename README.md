@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://jeremiaaxel.my.id](https://jeremiaaxel.my.id)
 
+- 📫 How to reach me [**jeremiaaxelb+gh@gmail.com**](mailto:jeremiaaxel.my.id)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeremiaaxel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremiaaxel" height="30" width="40" /></a>
