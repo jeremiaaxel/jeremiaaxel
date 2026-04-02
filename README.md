@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeremiaaxel.dev](https://jeremiaaxel.dev)
 
-- 📫 How to reach me [**me@jeremiaaxel.dev**](mailto:tujuan@email.com?subject=Reaching%20Out%20From%20Github)
+- 📫 How to reach me [**me@jeremiaaxel.dev**](mailto:me@jeremiaaxel.dev?subject=Reaching%20Out%20From%20Github)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
