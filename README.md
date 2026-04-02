@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremiaaxel" alt="jeremiaaxel" /></a> </p>
 
-- 🔭 Looking for opportunities in **Japan and Europe!**
+- 🔭 Looking for opportunities in **the US, Japan, and Europe!**
 
 - 👨‍💻 All of my projects are available at [https://jeremiaaxel.dev](https://jeremiaaxel.dev)
 
-- 📫 How to reach me [**jeremiaaxelb+gh@gmail.com**](mailto:jeremiaaxel.dev)
+- 📫 How to reach me [**me@jeremiaaxel.dev**](mailto:tujuan@email.com?subject=Reaching%20Out%20From%20Github)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
