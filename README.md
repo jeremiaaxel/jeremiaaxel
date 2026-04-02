@@ -7,9 +7,9 @@
 
 - 🔭 Looking for opportunities in **Japan and Europe!**
 
-- 👨‍💻 All of my projects are available at [https://jeremiaaxel.my.id](https://jeremiaaxel.my.id)
+- 👨‍💻 All of my projects are available at [https://jeremiaaxel.dev](https://jeremiaaxel.dev)
 
-- 📫 How to reach me [**jeremiaaxelb+gh@gmail.com**](mailto:jeremiaaxel.my.id)
+- 📫 How to reach me [**jeremiaaxelb+gh@gmail.com**](mailto:jeremiaaxel.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
